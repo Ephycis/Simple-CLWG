@@ -1,1 +1,1 @@
-# "Thingkin" ConLang-Word-Generator
+# ConLang-Word-Generator: Thingkin
